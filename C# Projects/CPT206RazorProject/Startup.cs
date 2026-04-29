@@ -1,0 +1,27 @@
+﻿using Cpt206SqlServer;
+using Cpt206.SqlServer;
+
+namespace CPT206RazorProject
+{
+    public class Startup
+    {
+        public void ConfigureServices(IServiceCollection services) 
+        {
+            services.AddRazorPages();
+            services.AddNorthwindContext();
+        }
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+            if (!env.IsDevelopment()) { app.UseHsts(); }
+            app.UseRouting(); // start endpoint routing
+            app.UseHttpsRedirection();   
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+            app.UseEndpoints(endpoints =>    
+            {
+                endpoints.MapRazorPages();
+                endpoints.MapGet("/hello", () => "Hello World!");    
+            });  
+        }
+    }
+}

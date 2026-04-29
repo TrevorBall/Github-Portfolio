@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../NHL_Class_Library/Class1.cs" />
+  </Folder>
+  <Project Path="../SportStatLibrary/SportStatLibrary.csproj" Id="8577e8e4-e308-4f11-96dd-a15bfc65f329" />
+  <Project Path="NHL_Class_Library.csproj" Id="fd34676f-3942-45dd-966c-856a08a0b357" />
+  <Project Path="Sports_Project_1.csproj" Id="57dc329e-c8bb-4eac-a193-3fb08b66d2e8" />
+</Solution>

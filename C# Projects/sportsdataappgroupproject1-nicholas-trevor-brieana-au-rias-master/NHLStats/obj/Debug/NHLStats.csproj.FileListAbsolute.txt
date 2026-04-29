@@ -1,0 +1,9 @@
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\bin\Debug\NHLStats.exe.config
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\bin\Debug\NHLStats.exe
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\bin\Debug\NHLStats.pdb
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\obj\Debug\NHLStats.csproj.AssemblyReference.cache
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\obj\Debug\NHLStats.Properties.Resources.resources
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\obj\Debug\NHLStats.csproj.GenerateResource.cache
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\obj\Debug\NHLStats.csproj.CoreCompileInputs.cache
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\obj\Debug\NHLStats.exe
+C:\Users\briea\source\repos\sportsdataappgroupproject1-nicholas-trevor-brieana-au-rias\NHLStats\obj\Debug\NHLStats.pdb
